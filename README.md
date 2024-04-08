@@ -1,2 +1,4 @@
-# Module_4_OAMSEK573_FTO2403_Sekhukhune_SDF04
-CSS Animation
+# CSS Animation
+
+## Buttons Animations
+This is a website displaying few of many button styles. When hover on each button it shows a a different animation style.
